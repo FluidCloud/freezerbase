@@ -1,2 +1,4 @@
 # freezerbase
- Application to construct cataloging and orginational position based databases
+ Application to allow users to contruct organizational and positioning based database systems
+ 
+ Mobile app dev. This is for phonegap
